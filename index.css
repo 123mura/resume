@@ -1,0 +1,43 @@
+#name{
+    font-size: 100px;
+    font-weight: normals;
+    font-size: 4.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    /* border: 2px solid gray; */
+}
+
+#resume{
+    font-weight: normal;
+    color: grey;
+    margin: 20px;
+    /* border: 2px solid green; */
+}
+
+.part{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+    /* border: 2px solid pink; */
+    position: relative;
+    top: 22px;
+}
+
+.img{
+    max-width: 30%;
+    height: auto;
+    margin-left: 125px;
+    border-radius: 50%!important;
+}
+#subheading{
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: grey;
+    padding-left: .5rem;
+    /* border: 2px solid red; */
+    display: flex;
+    position: relative;;
+    bottom: 50px;
+    padding-left: 24px;
+}
